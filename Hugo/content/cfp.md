@@ -64,9 +64,15 @@ Topics of interest include (but are not limited to):
 - Comparison, evaluation and integration of modeling languages
 - Correlation between modeling languages and modeling tasks
 
-We particularly encourage submissions describing applications and case studies 
-of textual modeling as well as test suites and benchmark collections for evaluating 
-textual modeling tools.
+
+We particularly encourage submissions describing:
+1. Applications and industrial case studies of textual modeling, with 
+a focus on both strengths and shortcomings.
+2. Test suites and benchmark collections for evaluating textual 
+modeling tools.
+3. Evolution and perspectives of textual modeling languages, such as 
+its compatibility and integration with other languages.
+
 
 ## Submissions
 
@@ -81,7 +87,9 @@ Four types of submissions will be considered:
   textual modeling tools
 * Full papers (between 10 and 14 pages).
 
-All submissions should follow the LNCS format guidelines and should be
+All submissions should follow the 
+[Springer  LNCS  format  guidelines](http ://www.springer.com/computer/lncs?SGWID =0 -164 -6 -793341 -0) 
+and should be
 uploaded to
 [EasyChair](https://easychair.org/conferences/?conf=ocl2020).
 
