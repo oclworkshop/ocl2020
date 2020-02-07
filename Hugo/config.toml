@@ -12,7 +12,7 @@ uglyURLs = true
 
 [params]
   colorscheme = "teal"
-  description = "20th International Workshop in OCL and Textual Modeling"
+  description = "20th International Workshop on OCL and Textual Modeling"
 
   # Tagline; HTML accepted here. Keep it concise.
   tagline = "20th International Workshop in OCL and Textual Modeling, 2020, Bergen, Norway"
