@@ -16,4 +16,6 @@ The important dates you should bear in mind for the workshop are the following:
 - Notification:              May 25 2020, AoE
 - Pre-Workshop CRC:          Jun 19 2020, AoE   
 - Workshop:                      Jun 26, 2020 (to be confirmed)
-- Post-Workshop CRC:          To be announced  
+- Post-Workshop CRC:          To be confirmed  
+
+Should you have any problem to meet the deadlines, please contact the organizers.
