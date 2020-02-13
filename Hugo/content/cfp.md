@@ -88,7 +88,7 @@ Four types of submissions will be considered:
 * Full papers (between 10 and 14 pages).
 
 All submissions should follow the 
-[Springer  LNCS  format  guidelines](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) 
+[Springer  LNCS  format  guidelines](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) 
 and should be
 uploaded to
 [EasyChair](https://easychair.org/conferences/?conf=ocl2020).
