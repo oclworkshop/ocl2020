@@ -101,7 +101,11 @@ workshop. Accepted papers will be published online in
 
 ## Important Dates
 
-- Submission of papers:      04 May 2020, AoE 
-- Notification:              25 May 2020, AoE
-- Pre-Workshop CRC:           To be announced   
+- Abstract submission:       Apr 27 2020, AoE 
+- Submission of papers:      May 04 2020, AoE 
+- Notification:              May 25 2020, AoE
+- Pre-Workshop CRC:          Jun 19 2020, AoE   
+- Workshop:                      Jun 26, 2020 (to be confirmed)
 - Post-Workshop CRC:          To be announced  
+
+Should you have any problem to meet the deadlines, please contact the organizers.

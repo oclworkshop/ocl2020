@@ -1,7 +1,7 @@
 +++
 weight = 3
 Description = "Organizers and Program Committee"
-date = "2020-02-10T16:54:40+01:00"
+date = "2020-02-14T16:54:40+01:00"
 menu = "main"
 title = "Committee"
 +++
@@ -22,9 +22,7 @@ title = "Committee"
 * Dan Chiorean, Babes-Bolyai University, Romania
 * Tony Clark, Aston University, UK
 * Manuel Clavel, IMDEA Software Institute, Spain
-* Carolina Dania, Hotels.com, The Netherlands
 * Birgit Demuth, Technische Universität Dresden, Germany
-* Marina Egea, Indra Sistemas SA, Spain
 * Martin Gogolla, University of Bremen, Germany
 * Frédéric Jouault, ESEO-TECh, France
 * Sina Madani, University of York, UK
