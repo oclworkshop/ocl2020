@@ -1,7 +1,7 @@
 +++
 weight = 1
 Description = "Call for Papers"
-date = "2020-02-21T16:12:19+01:00"
+date = "2020-02-20T15:50:19+01:00"
 menu = "main"
 title = "Call for Papers"
 

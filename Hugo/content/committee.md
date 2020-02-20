@@ -1,7 +1,7 @@
 +++
 weight = 3
 Description = "Organizers and Program Committee"
-date = "2020-02-20T16:54:40+01:00"
+date = "2020-02-20T15:50:40+01:00"
 menu = "main"
 title = "Committee"
 +++
