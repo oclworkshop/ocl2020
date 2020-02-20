@@ -1,7 +1,7 @@
 +++
 weight = 3
 Description = "Organizers and Program Committee"
-date = "2020-02-14T16:54:40+01:00"
+date = "2020-02-20T16:54:40+01:00"
 menu = "main"
 title = "Committee"
 +++
@@ -12,11 +12,9 @@ title = "Committee"
 * [Robert Clarisó](http://w.uoc.edu/robert-clariso), Universitat Oberta de Catalunya, Spain
 * [Edward Willink](http://www.willink.me.uk/), Willink Transformations Ltd, UK
 
-## Programme Committee (tentative)
+## Programme Committee 
 
-* Mira Balaban, Ben - Gurion University of the Negev, Israel
 * Tricia Balfe, Nomos Software, Ireland
-* Robert Bill, Vienna University of Technology, Austria
 * Achim D. Brucker, University of Exeter, UK
 * Jordi Cabot, ICREA - Universitat Oberta de Catalunya, Spain
 * Dan Chiorean, Babes-Bolyai University, Romania
@@ -29,7 +27,7 @@ title = "Committee"
 * Shahar Maoz, Tel Aviv University, Israel
 * Denis Nikiforov, Centre of Information Technology, Russia
 * Xavier Oriol, UPC-Barcelona Tech, Spain
-* Istvan Rath, Budapest University of Technology and Economics, Hungary
+* István Ráth, Budapest University of Technology and Economics, Hungary
 * Jan Oliver Ringert, University of Leicester, UK
 * Bernhard Rumpe, RWTH Aachen, Germany
 * Ernest Teniente, UPC-Barcelona Tech, Spain

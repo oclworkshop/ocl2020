@@ -1,7 +1,7 @@
 +++
 weight = 1
 Description = "Call for Papers"
-date = "2020-02-05T16:12:19+01:00"
+date = "2020-02-21T16:12:19+01:00"
 menu = "main"
 title = "Call for Papers"
 
@@ -105,7 +105,7 @@ workshop. Accepted papers will be published online in
 - Submission of papers:      May 04 2020, AoE 
 - Notification:              May 25 2020, AoE
 - Pre-Workshop CRC:          Jun 19 2020, AoE   
-- Workshop:                      Jun 26, 2020 (to be confirmed)
+- Workshop:                      Jun 26, 2020 
 - Post-Workshop CRC:          To be confirmed  
 
 Should you have any problem to meet the deadlines, please contact the organizers.
